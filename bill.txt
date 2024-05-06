@@ -1,0 +1,11 @@
+Aniket,P.,Solanki,6356056120,07,200,Vaniyavadi No.8,777
+Dev,P.,Mehta,8141430945,82,350,Ankur,822
+Jeel,S.,Butani,9879735128,74,450,Aashtha,744
+Khushi,H.,Pandya,9537410667,425,48,Mahapar,645
+Vasu,A.,Khanpara,9998614411,450,77,Siddhi Hieght,770
+Deep,S.,Manani,5511554214,500,49,Pipariya Hall,490
+Rushirajsinh,N.,Zala,7859654786,458,48,Mundra,480
+
+
+
+
